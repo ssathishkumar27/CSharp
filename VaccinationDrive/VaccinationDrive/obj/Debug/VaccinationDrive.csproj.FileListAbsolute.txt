@@ -1,0 +1,2 @@
+C:\Users\SathishkumarSaravana\source\repos\VaccinationDrive\VaccinationDrive\obj\Debug\VaccinationDrive.csproj.AssemblyReference.cache
+C:\Users\SathishkumarSaravana\source\repos\VaccinationDrive\VaccinationDrive\obj\Debug\VaccinationDrive.csproj.CoreCompileInputs.cache
